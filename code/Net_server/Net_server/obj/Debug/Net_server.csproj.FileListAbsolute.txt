@@ -1,0 +1,10 @@
+F:\vs2017\projects\Net_server\Net_server\bin\Debug\Net_server.exe.config
+F:\vs2017\projects\Net_server\Net_server\bin\Debug\Net_server.exe
+F:\vs2017\projects\Net_server\Net_server\bin\Debug\Net_server.pdb
+F:\vs2017\projects\Net_server\Net_server\obj\Debug\Net_server.csprojAssemblyReference.cache
+F:\vs2017\projects\Net_server\Net_server\obj\Debug\Net_server.Form1.resources
+F:\vs2017\projects\Net_server\Net_server\obj\Debug\Net_server.Properties.Resources.resources
+F:\vs2017\projects\Net_server\Net_server\obj\Debug\Net_server.csproj.GenerateResource.cache
+F:\vs2017\projects\Net_server\Net_server\obj\Debug\Net_server.csproj.CoreCompileInputs.cache
+F:\vs2017\projects\Net_server\Net_server\obj\Debug\Net_server.exe
+F:\vs2017\projects\Net_server\Net_server\obj\Debug\Net_server.pdb
